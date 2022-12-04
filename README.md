@@ -6,3 +6,12 @@
 
 <img align="center" width="550" src="https://github-readme-stats.vercel.app/api/?username=luongnvUIT&theme=highcontrast" />
 <img align="center" width="550" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongnvUIT&hide=c%23&theme=gruvbox&langs_count=8&layout=compact&hide_border=true%22" />
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/luongnv-uit/" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LuongNVUIT" />
+  </a>
+  <a href="mailto:luongnv.uit@gmail.com" target="top">
+    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="LuongNVUIT" />
+  </a>
+</div>
