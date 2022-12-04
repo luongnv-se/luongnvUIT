@@ -9,9 +9,9 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/luongnv-uit/" target="blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LuongNVUIT" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" alt="LuongNVUIT" width="50" height="50"/>
   </a>
   <a href="mailto:luongnv.uit@gmail.com" target="top">
-    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="LuongNVUIT" />
+    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="LuongNVUIT" width="50" height="50"/>
   </a>
 </div>
